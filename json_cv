@@ -1,96 +1,83 @@
 {
-    "basics": {
-        "name": "Tanishq Lohia",
-        "label": "Student",
-        "picture": "",
-        "email": "2021kucp1131@iiitkota.ac.in",
-        "phone": "6289835840",
-        "website": "https://thegauravparmar.com",
-        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.Just chill",
-        "location": {
-            "address": "Sai Baba street,Daba gardens,Narayana Bhavnam",
-            "postalCode": "500020",
-            "city": "Vishakhapatnam",
-            "countryCode": "India",
-            "region": "Rajasthan"
-        },
-        "profiles": [
-            
-            {
-                "network": "Github",
-                "username": "tanishq2507",
-                "url": "https://github.com/tanishq2507"
-            },
-            {
-                "network": "linkedin",
-                "username": "Tanishq Lohia",
-                "url": "https://www.linkedin.com/in/tanishq-lohia-a497a5223/"
-            },
-            {
-                "network": "Instagram",
-                "username": "tanishqlohia",
-                "url": "https://instagram.com/tanishq2507"
-            }
-        ]
-    },
-    "work": [
-        
-    ],
-    "education": [
-        {
-            "institution": "Indian Institute of Information Technology,Kota",
-            "area": "Engineering",
-            "studyType": "Bachelor (hons)",
-            "startDate": "2021",
-            "endDate": "2025",
-            "courses": [
-                "Computer Science & Engineering"
-            ]
-        }
-    ],
-    "awards": [
-        {
-            "title": "1671st Rank in Kick Start 2021",
-            "awarder": "Google",
-            
-        }
-    ],
-    "publications": [
-        {
-            
-        },
-       
-    ],
-    "skills": [
-        {
-            "name": "Python",
-            "level": "Intermediate",
-            "keywords": [
-          
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "English",
-            "fluency": "Professional working proficiencyProfessional"
+	"basics": {
+		"name": "Tanishq Lohia",
+		"label": "Student",
+		"picture": "",
+		"email": "2021kucp1131@iiitkota.ac.in",
+		"phone": "+916289835840",
+		"website": "https://thegauravparmar.com",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.Just chill",
+		"location": {
+			"address": "Sai Baba street,Daba gardens,Narayana Bhavnam",
+			"postalCode": "500020",
+			"city": "Vishakhapatnam",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [
 
-        }
-    ],
-    "interests": [
-        {
-            "name": "Chess",
-            "keywords": [
-            ]
-		"name": ""
-		
+			{
+				"network": "Github",
+				"username": "tanishq2507",
+				"url": "https://github.com/tanishq2507"
+			},
+			{
+				"network": "linkedin",
+				"username": "Tanishq Lohia",
+				"url": "https://www.linkedin.com/in/tanishq-lohia-a497a5223/"
+			},
+			{
+				"network": "Instagram",
+				"username": "tanishqlohia",
+				"url": "https://instagram.com/tanishq2507"
+			}
+		]
+	},
+	"work": [
 
-        },
-        {
-            "name": "Competetive Programming",
-            "keywords": [
-                "Problem Solving"
-            ]
-        }
-    ]
+	],
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2021",
+		"endDate": "2025",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "1671st Rank in Kick Start 2021",
+		"awarder": "Google"
+
+	}],
+	"publications": [{
+
+		}
+
+	],
+	"skills": [{
+		"name": "Python",
+		"level": "Intermediate",
+		"keywords": [
+
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "Professional working proficiencyProfessional"
+
+	}],
+	"interests": [{
+			"name": "Chess"
+
+
+		},
+		{
+			"name": "Competetive Programming",
+			"keywords": [
+				"Problem Solving"
+			]
+		}
+	]
 }
